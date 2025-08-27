@@ -1,1 +1,9 @@
-# java-game-character-byaxel
+<img width="313" height="142" alt="image" src="https://github.com/user-attachments/assets/36ca9f0d-d161-4719-8182-a7b1115b8297" />
+<img width="323" height="141" alt="image" src="https://github.com/user-attachments/assets/a76f9baa-6bfe-487f-a2e0-8c64cb46a09c" />
+<img width="283" height="148" alt="image" src="https://github.com/user-attachments/assets/13680f6a-d5e1-463d-86bc-4df2ed33306c" />
+<img width="304" height="189" alt="image" src="https://github.com/user-attachments/assets/4674eb6d-87f6-4617-82e9-5d6a93e24fb0" />
+<img width="274" height="135" alt="image" src="https://github.com/user-attachments/assets/d8bedc2b-77e8-4638-9f37-80527cef5ac8" />
+<img width="322" height="179" alt="image" src="https://github.com/user-attachments/assets/2bc5648b-ce1c-4d2b-8919-9baa5b879ae6" />
+<img width="325" height="143" alt="image" src="https://github.com/user-attachments/assets/7dbfccae-a222-4ff1-8e87-ebb1e9f94755" />
+<img width="286" height="142" alt="image" src="https://github.com/user-attachments/assets/da32ee52-2e11-4e15-b868-9854e7ac54c0" />
+<img width="285" height="150" alt="image" src="https://github.com/user-attachments/assets/7c45fd4a-4e2b-4aac-a5e5-c9d9ff54ca86" />
